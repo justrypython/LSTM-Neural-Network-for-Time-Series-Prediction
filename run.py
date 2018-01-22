@@ -1,3 +1,4 @@
+#encoding:UTF-8
 import lstm
 import time
 import matplotlib.pyplot as plt
